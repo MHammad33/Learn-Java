@@ -1,6 +1,6 @@
-![java-logo-vector](https://github.com/MHammad33/Learn-Java/assets/137163382/a7c39e09-4f2c-4e55-960d-36698a8e6c88)
-
+![java-logo-vector](https://github.com/MHammad33/Learn-Java/assets/137163382/80d9ff57-40d4-4ff5-94c0-7c450ccc29f0)
 # Learning Java
+
 Here are my study notes for Java 
 
 What I am doing? 
